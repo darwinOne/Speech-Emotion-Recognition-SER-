@@ -1,2 +1,2 @@
-# Speech-Emotion-Recognition-SER-
-Speech Emotion Recognition (SER) has been under the scrutiny of researchers for many years. The emotion recognition system through speech is the ability to identify the type of emotion from a human speech to create a natural interaction between humans and machines (computers).
+# Speech Emotion Recognition (SER)
+Speech emotion recognition (SER) is the ability to identify the type of emotion from human speech, intending to create a natural interaction between humans and computers or commonly known as human-computer interaction (HCI). To increase human satisfaction while using digital devices such as computers and smartphones, the development of HCI is very much needed. Therefore, in this project, I will design a Speech Emotion Recognition (SER) system using Linear Predictive Coding (LPC) with K-Nearest Neighbor (KNN) classification.
